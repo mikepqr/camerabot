@@ -1,0 +1,6 @@
+# Change and move to .env
+SLACK_BOT_TOKEN="..."
+BOT_NAME="mybot"
+BOT_ID="run print_bot_id.py to get this"
+FNAME="pic.jpg"
+PIC_URL="http://example.com/pic.jpg"
