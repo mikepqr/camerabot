@@ -41,7 +41,7 @@ def check_slack_output(slack_rtm_output):
 
 if __name__ == "__main__":
     if sc.rtm_connect():
-        print("StarterBot connected and running!")
+        print("camerabot connected and running!")
         while True:
             command, channel = check_slack_output(sc.rtm_read())
             if command and channel:
